@@ -1,0 +1,10 @@
+{
+  "file_path": "demo.txt",
+  "export_name": "result.wav",
+  "speed": 1.0,
+  "pitch": 1.8,
+  "female": 1.8,
+  "lang": "Japanese",
+  "default_interval": 0.5,
+  "difficulty": 5
+}
